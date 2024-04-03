@@ -1,5 +1,15 @@
 /** General **/
+.black{
+    color: black;
+}
 
+.blue {
+    color: #0065FC;
+}
+
+.white {
+    color: white;
+}
 * {
     font-family: 'Raleway', sans-serif;
 }
